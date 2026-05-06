@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/error.tsx"],"sourcesContent":["'use client';\n\nexport default function Error() {\n  return <div>Error</div>;\n}\n"],"names":["Error"],"mappings":"yEAEe,SAASA,EACtB,MAAO,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,UAAI,SACd"}

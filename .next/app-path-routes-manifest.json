@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/razorpay/create-order/route": "/api/razorpay/create-order",
+  "/api/razorpay/verify-payment/route": "/api/razorpay/verify-payment",
+  "/api/razorpay/webhook/route": "/api/razorpay/webhook",
+  "/campaigns/[id]/page": "/campaigns/[id]",
+  "/campaigns/page": "/campaigns",
+  "/donate/page": "/donate",
+  "/donation-success/page": "/donation-success",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}

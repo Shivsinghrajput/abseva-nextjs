@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/razorpay/create-order/route": "app/api/razorpay/create-order/route.js",
+  "/api/razorpay/verify-payment/route": "app/api/razorpay/verify-payment/route.js",
+  "/api/razorpay/webhook/route": "app/api/razorpay/webhook/route.js",
+  "/campaigns/[id]/page": "app/campaigns/[id]/page.js",
+  "/campaigns/page": "app/campaigns/page.js",
+  "/donate/page": "app/donate/page.js",
+  "/donation-success/page": "app/donation-success/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
